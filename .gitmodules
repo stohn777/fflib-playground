@@ -1,0 +1,6 @@
+[submodule "sfdx-source-dependencies/fflib-apex-mocks"]
+	path = sfdx-source-dependencies/fflib-apex-mocks
+	url = https://github.com/apex-enterprise-patterns/fflib-apex-mocks
+[submodule "sfdx-source-dependencies/fflib-apex-common"]
+	path = sfdx-source-dependencies/fflib-apex-common
+	url = https://github.com/apex-enterprise-patterns/fflib-apex-common
